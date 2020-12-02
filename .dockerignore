@@ -4,4 +4,4 @@
 /.idea
 /.git*
 /*.env
-!/.example.*.env
+!/.example*.env
